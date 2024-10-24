@@ -13,7 +13,7 @@ code to someone else), the case shall be submitted to the Office of the Dean of
 Students. Academic penalties up to and including an F in the course are likely.
 
 UT EID 1: ny3259
-UT EID 2:
+UT EID 2: sjs5658
 """
 
 
